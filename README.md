@@ -4,7 +4,7 @@
 
 Recriar a interface da página de produto do Mercado Livre com ReactJS
 
-Link do projeto: 
+Link do projeto: https://mercado-reactjs.vercel.app/
 
 ## Para começar :arrow_forward:
 
@@ -36,7 +36,6 @@ Link do projeto:
 - [React](https://reactjs.org/) 
 - [styled-components](https://styled-components.com/)
 - [ESLint](https://eslint.org/) 
-- [Storybook](https://github.com/storybookjs/storybook) 
 
 ## Licença :page_with_curl:
 
