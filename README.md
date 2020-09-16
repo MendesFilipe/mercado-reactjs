@@ -37,6 +37,6 @@ Link do projeto: https://mercado-reactjs.vercel.app/
 - [styled-components](https://styled-components.com/)
 - [ESLint](https://eslint.org/) 
 
-## Licença :page_with_curl:
+## Licença ⚖
 
 Esse projeto possui a licença **MIT**.
